@@ -1,5 +1,5 @@
 git & gitHub 순서
-*초기 디렉터리 생성 시 순서
+* 초기 디렉터리 생성 시 순서
 1. git init 저장소 등록
 2. git branch -M main
    master -> main으로 변경
